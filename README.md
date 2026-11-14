@@ -1,5 +1,7 @@
 # NPI Registry Pro
 
+**Apify Store:** https://apify.com/red.cars/npi-registry-pro
+
 Search every US healthcare provider in the CMS NPPES registry: 8.7M+ individual and organizational providers with NPI numbers, specialty taxonomy, addresses, phones and authorized officials. Free government data. No key, no proxies.
 
 **Comparison:** [sourabhbgp/npi-registry-scraper](https://apify.com/sourabhbgp/npi-registry-scraper) (the category leader) returns basic registry rows. NPI Registry Pro adds the specialty filter (Dentist, Internal Medicine, Chiropractor and more), an individual/organization switch, an active-only filter so you never pay for a deactivated record, authorized-official contact details, practice locations and declared EHR endpoints.
